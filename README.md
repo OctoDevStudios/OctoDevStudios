@@ -12,9 +12,6 @@ Hi! I'm **OctoDev**, a developer passionate about coding and creating cool, inno
 - **Languages**: HTML, CSS, JavaScript, PHP, Python, C#
 - **Tools**: Git, GitHub, VS Code
 
-## 📂 Current Projects
-- **Discord BOT**: A template for making a Discord bot that’s easy to modify, in a scratch-like format for beginners who want to create their own bot
-
 ## 💬 Let’s Chat!
 Feel free to reach out if you’d like to talk about web development, beginner tips, or just share insights on programming.
 
