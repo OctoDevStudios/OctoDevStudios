@@ -2,7 +2,7 @@
 
 # 👋 Welcome to my GitHub Profile — OctoDev Studios
 
-Hi! I'm **OctoDev**, a developer passionate about coding and creating cool, innovative projects. I work on personal projects, experiments, and a few open-source contributions.
+Hi! I'm **OctoDev**, a developer passionate about coding and creating cool, innovative projects. I work on personal projects and experiments.
 
 ## 👨‍💻 About Me
 - 🎓 Self-taught, I learn by exploring and building
