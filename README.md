@@ -20,7 +20,6 @@ Hi! I'm **OctoDev**, a developer passionate about coding and creating cool, inno
 Feel free to reach out if you’d like to talk about web development, beginner tips, or just share insights on programming.
 
 - **Discord** : @octodevv5
-- **Discord Server** : (in construction) (FRENCH 🇫🇷)
 - **Telegram** : @octodevv1
 
 ---
