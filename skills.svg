@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="280" viewBox="0 0 900 280">
+  <defs>
+    <linearGradient id="bar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#238636"/>
+      <stop offset="100%" stop-color="#3fb950"/>
+    </linearGradient>
+    <style>
+      .label { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 13px; fill: #c9d1d9; }
+      .pct { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 12px; fill: #8b949e; }
+      .track { fill: #161b22; }
+    </style>
+  </defs>
+  <rect width="900" height="280" rx="12" fill="#0d1117" stroke="#21262d"/>
+  <text x="28" y="36" class="label" fill="#8b949e" font-size="12">~/skills</text>
+
+  <!-- rows: y base 60,110,160,210 -->
+  <g transform="translate(28,55)">
+    <text class="label" x="0" y="0">C / Kernel &amp; Drivers</text>
+    <text class="pct" x="820" y="0" text-anchor="end">██████████</text>
+    <rect class="track" x="0" y="12" width="844" height="10" rx="5"/>
+    <rect x="0" y="12" height="10" rx="5" fill="url(#bar)" width="0">
+      <animate attributeName="width" from="0" to="760" dur="1.6s" fill="freeze"/>
+    </rect>
+  </g>
+  <g transform="translate(28,105)">
+    <text class="label" x="0" y="0">ACPI / OpenCore / Firmware</text>
+    <rect class="track" x="0" y="12" width="844" height="10" rx="5"/>
+    <rect x="0" y="12" height="10" rx="5" fill="url(#bar)" width="0">
+      <animate attributeName="width" from="0" to="700" dur="1.8s" fill="freeze"/>
+    </rect>
+  </g>
+  <g transform="translate(28,155)">
+    <text class="label" x="0" y="0">Python · Kotlin · JS</text>
+    <rect class="track" x="0" y="12" width="844" height="10" rx="5"/>
+    <rect x="0" y="12" height="10" rx="5" fill="url(#bar)" width="0">
+      <animate attributeName="width" from="0" to="620" dur="2s" fill="freeze"/>
+    </rect>
+  </g>
+  <g transform="translate(28,205)">
+    <text class="label" x="0" y="0">Linux · macOS internals</text>
+    <rect class="track" x="0" y="12" width="844" height="10" rx="5"/>
+    <rect x="0" y="12" height="10" rx="5" fill="url(#bar)" width="0">
+      <animate attributeName="width" from="0" to="680" dur="2.1s" fill="freeze"/>
+    </rect>
+  </g>
+</svg>
