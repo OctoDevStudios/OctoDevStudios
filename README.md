@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./banner.gif" alt="OctoDev terminal" width="900" />
   <br/><br/>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3200&pause=900&color=3FB950&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=90&lines=Building+things+that+sit+close+to+the+metal;Drivers.+Firmware.+Desktop+systems.;Self-taught.+Curious.+Always+shipping." alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=100&lines=Building+close+to+the+metal;Drivers+%C2%B7+Firmware+%C2%B7+Systems;Self-taught.+Curious.+Shipping." alt="typing" />
 </div>
 
 <br/>
